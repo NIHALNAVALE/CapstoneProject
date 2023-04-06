@@ -1,3 +1,10 @@
 [submodule "realsense2_description"]
 	path = realsense2_description
 	url = https://github.com/issaiass/realsense2_description
+[submodule "realsense_gazebo_plugin"]
+	path = realsense_gazebo_plugin
+	url = https://github.com/issaiass/realsense_gazebo_plugin
+[submodule "turtlebot3_simulations"]
+	path = turtlebot3_simulations
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+	branch = noetic-devel
