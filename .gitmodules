@@ -1,9 +1,9 @@
 [submodule "submodules/realsense2_description"]
 	path = submodules/realsense2_description
-	url = https://github.com/issaiass/realsense2_description
+	url = git@github.com:issaiass/realsense2_description.git
 [submodule "submodules/realsense_gazebo_plugin"]
 	path = submodules/realsense_gazebo_plugin
-	url = https://github.com/issaiass/realsense_gazebo_plugin
+	url = git@github.com:issaiass/realsense_gazebo_plugin.git
 [submodule "submodules/turtlebot3_simulations"]
 	path = submodules/turtlebot3_simulations
 	url = git@github.com:NIHALNAVALE/turtlebot3_simulations.git
