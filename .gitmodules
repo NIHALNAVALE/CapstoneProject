@@ -1,0 +1,3 @@
+[submodule "realsense2_description"]
+	path = realsense2_description
+	url = https://github.com/issaiass/realsense2_description
