@@ -6,4 +6,5 @@
 	url = https://github.com/issaiass/realsense_gazebo_plugin
 [submodule "submodules/turtlebot3_simulations"]
 	path = submodules/turtlebot3_simulations
-	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+	url = git@github.com:NIHALNAVALE/turtlebot3_simulations.git
+	branch = noetic-devel
