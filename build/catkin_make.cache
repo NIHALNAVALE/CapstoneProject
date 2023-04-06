@@ -1,0 +1,2 @@
+realsense2_description:realsense_gazebo_plugin:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/nihal/turtlebot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nihal/turtlebot_ws/install -G Unix Makefiles
