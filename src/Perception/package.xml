@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>capstone</name>
+  <name>Perception</name>
   <version>0.0.0</version>
   <description>The capstone package</description>
 
@@ -23,7 +23,7 @@
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
-  <!-- Authors do not have to be maintainers, but could be -->
+  <!-- Authors do not have to be maintainers, but could be -->s
   <!-- Example: -->
   <!-- <author email="jane.doe@example.com">Jane Doe</author> -->
 
