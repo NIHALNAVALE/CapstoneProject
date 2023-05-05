@@ -41,6 +41,9 @@ Step3: Navigate to "/CapstoneProject/src/turtlebot3_gazebo/scripts" and run the 
 ```
 
   
-Step4: publish the pseudo-position of the human using the following rostopic pub, $ rostopic pub /Human_Pose Perception/HumanPose "{depth: 2.0, bb_x: 1.0, bb_y: 0.0, frame_x: 0.0, frame_y: 0.0}"
+Step4: publish the pseudo-position of the human using the following rostopic pub, 
+```
+  rostopic pub /Human_Pose Perception/HumanPose "{depth: 2.0, bb_x: 1.0, bb_y: 0.0, frame_x: 0.0, frame_y: 0.0}"
+```
 
 depth is the position or depth the human is at from the camera/robot, bb_x is the distance the human is at from the center of the image frame.
