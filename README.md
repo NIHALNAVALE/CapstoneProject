@@ -24,11 +24,11 @@ Step1: Create a catkin workspace such as "catkin_ws" or "turtlebot_ws" and gitcl
 Step2: There are two launch files which you can use to launch the gazebo world, the first launch file launches a mapped world, while the second launches a unmapped world.   
 ```
   roslaunch turtlebot3_gazebo my_world.launch
-  ```
+```
 
-  ```
+```
   roslaunch turtlebot3_gazebo my_auto_nav.launch 
-  ```
+```
 
 Step3: Navigate to "/CapstoneProject/src/turtlebot3_gazebo/scripts"
        and run python3 human_track.py
