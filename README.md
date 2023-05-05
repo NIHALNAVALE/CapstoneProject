@@ -17,8 +17,16 @@ solution specific for ground-based robots.
 
 ## Requirements
 
-
-
+Install the following dependencies when git cloning,
+```
+  sudo apt-get install ros-noetic-amcl
+```
+```
+  sudo apt-get install ros-noetic-gmapping
+```
+```
+  sudo apt-get install ros-noetic-move-base
+```
 
 ## Setup
 
