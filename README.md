@@ -35,8 +35,7 @@ Step2: There are two launch files which you can use to launch the gazebo world, 
   roslaunch turtlebot3_gazebo my_auto_nav.launch 
 ```
 
-Step3: Navigate to "/CapstoneProject/src/turtlebot3_gazebo/scripts"
-       and run 
+Step3: Navigate to "/CapstoneProject/src/turtlebot3_gazebo/scripts" and run the below command, this python file subcribes to the human pose message and publishes new calculated pose for the movebase package.
 ```
   python3 human_track.py
 ```
