@@ -15,6 +15,11 @@ generated trajectories. The proposed solution is a framework that can be applied
 as well as aerial robots, however, considering the rigorous timeline, we have developed a
 solution specific for ground-based robots.
 
+## Requirements
+
+
+
+
 ## Setup
 
 Step1: Create a catkin workspace such as "catkin_ws" or "turtlebot_ws" and gitclone this repo.
@@ -31,7 +36,11 @@ Step2: There are two launch files which you can use to launch the gazebo world, 
 ```
 
 Step3: Navigate to "/CapstoneProject/src/turtlebot3_gazebo/scripts"
-       and run python3 human_track.py
+       and run 
+```
+  python3 human_track.py
+```
+
   
 Step4: publish the pseudo-position of the human using the following rostopic pub, $ rostopic pub /Human_Pose Perception/HumanPose "{depth: 2.0, bb_x: 1.0, bb_y: 0.0, frame_x: 0.0, frame_y: 0.0}"
 
