@@ -3,6 +3,11 @@
 ### *RBE 594: Robotics Capstone Experience - Worcester Polytechnic Institute, Spring 2023*
 ### Members: Nihal Suneel Navale, Ashwij Kumbla, Himanshu Gautam, Purvang Patel
 
+--------------------------------------------------------------
+
+### Introduction
+
+
 Step1: Create a catkin workspace such as "catkin_ws" or "turtlebot_ws" and gitclone this repo.
 
 Steps 2,3 and 4 are to be launched in new terminal windows
