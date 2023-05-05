@@ -1,4 +1,4 @@
-# Deep Learning - Driven Human Following Robot: Detection, Tracking and Navigation
+# (Navigation Stack) Deep Learning - Driven Human Following Robot: Detection, Tracking and Navigation
 
 ### *RBE 594: Robotics Capstone Experience - Worcester Polytechnic Institute, Spring 2023*
 ### Members: Nihal Suneel Navale, Ashwij Kumbla, Himanshu Gautam, Purvang Patel
