@@ -22,9 +22,11 @@ Step1: Create a catkin workspace such as "catkin_ws" or "turtlebot_ws" and gitcl
 *Steps 2,3 and 4 are to be launched in new terminal windows*
 
 Step2: 
-'''
-roslaunch turtlebot3_gazebo my_world.launch
-'''
+
+
+  ```
+  roslaunch turtlebot3_gazebo my_world.launch
+  ```
        for pre-mapped world.
        roslaunch turtlebot3_gazebo my_auto_nav.launch
        for SLAM (no-pre mapped world). 
